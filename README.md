@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5LIM3
 - 👀 I’m interested in programming, coding and hacking
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me, alozieanyatonwu@gmail.com or Whatapp: +23407040951519
 
